@@ -1,0 +1,14 @@
+copy.txt
+date.txt
+ls.txt
+mount.txt
+netstat.txt
+permissions.txt
+process.txt
+pwd.txt
+read.txt
+regex.txt
+tencount.txt
+tentext
+tentext.txt
+textcount.txt
